@@ -20,7 +20,6 @@ export default function App() {
         <Route path="/signup" element={<SignUp />} />
         <Route path="/projects" element={<Projects />} />
       </Routes>
-      <div>Hello</div>
     </BrowserRouter>
   )
 }
